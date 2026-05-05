@@ -1,0 +1,47 @@
+.page {
+  min-height: calc(100vh - 70px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+  position: relative;
+  z-index: 1;
+}
+.code {
+  font-size: clamp(6rem, 15vw, 10rem);
+  font-weight: 800;
+  background: linear-gradient(135deg, #f5d769, #d4af37, #8b6914);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  line-height: 1;
+  margin-bottom: 0.5rem;
+}
+.title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #f5f0e8;
+  margin-bottom: 0.75rem;
+}
+.sub {
+  color: #888;
+  font-size: 0.9rem;
+  max-width: 360px;
+  margin-bottom: 2rem;
+  line-height: 1.65;
+}
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.7rem 1.5rem;
+  background: linear-gradient(135deg, #d4af37, #8b6914);
+  border-radius: 8px;
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: #050505;
+  transition: opacity 0.2s, transform 0.2s;
+}
+.btn:hover { opacity: 0.88; transform: translateY(-2px); }
