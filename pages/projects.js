@@ -48,7 +48,7 @@ const projects = [
     tags: ['Next.js', 'React', 'CSS Modules','FormSpree'],
     type: 'Web App',
     year: '2026',
-    link: 'https://github.com/odong-noah/Portfolio',
+    link: 'https://odong-noah-portfolio.vercel.app/',
   },
 ];
 
