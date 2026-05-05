@@ -4,7 +4,7 @@ import styles from '../styles/Projects.module.css';
 const projects = [
   {
     title: 'Learn Luganda Mobile App',
-    desc: "A React Native mobile application built with TypeScript, designed to make learning Luganda accessible to anyone on the go. Developed in response to Uganda'S growing influx of foreign tourists and migrants, the app addresses the language barrier between visitors and locals by providing an intuitive, mobile-assisted language learning experience. Inspired by platforms like Duolingo.",
+    desc: "A React Native mobile application built with TypeScript, designed to make learning Luganda accessible to anyone on the go. Developed in response to Uganda's growing influx of foreign tourists and migrants, the app addresses the language barrier between visitors and locals by providing an intuitive, mobile-assisted language learning experience. Inspired by platforms like Duolingo.",
     tags: ['React Native', 'MySQL', 'Node.js', 'Offline Sync','AI/ML','NLP'],
     type: 'Mobile App',
     year: '2025',
@@ -13,7 +13,7 @@ const projects = [
   {
     title: 'Media Asset Manager',
     desc: 'A web-based media management app that lets users upload images and videos, then apply custom transformations, such as resizing, cropping, and filters directly in the browser. Built with Vanilla JavaScript, HTML, and Bootstrap on the frontend, PHP on the backend, Cloudinary for cloud media storage and transformation, and MySQL for storing references to uploaded assets.',
-    tags: ['Vanilla Javascript', 'HTML', 'Bootstrapcss', 'Cloudinary', 'MYSQL'],
+    tags: ['Vanilla Javascript', 'HTML', 'Bootstrap CSS', 'Cloudinary', 'MYSQL'],
     type: 'Web App',
     year: '2026',
     link: 'https://www.grtdevsrv.com/2024_sparrow_ug_2025b/Joshua/cloudinary/index.php',

@@ -58,7 +58,7 @@ export default function Footer() {
           <div className={styles.logoBox} aria-hidden="true">ON</div>
           <div>
             <p className={styles.name}>Odong Noah</p>
-            <p className={styles.tagline}>Full Stack Software Developer & IT Support Professional· Uganda Tel: +256 7681 82448</p>
+            <p className={styles.tagline}>Full Stack Software Developer & IT Support Professional· Uganda Tel: +256 768 182 448</p>
           </div>
         </div>
 
