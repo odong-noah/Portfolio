@@ -50,6 +50,14 @@ const projects = [
     year: '2026',
     link: 'https://odong-noah-portfolio.vercel.app/',
   },
+  {
+    title: 'Library Management System',
+    desc: 'A web-based library management system designed to digitize school library operations, replacing traditional paper ledgers with a streamlined digital dashboard. The application automates the entire circulation lifecycle—including book inventory management, member registration, and automated fine calculations for overdue returns. Built with Vanilla JavaScript, HTML, and Bootstrap 5 on the frontend, PHP on the backend, and MySQL for secure data storage and activity logging, with Chart.js for real-time visual statistics.',
+    tags: ['Vanilla JavaScript', 'Boostrap CSS','PHP','MYSQL','HTML'],
+    type: 'Web App',
+    year: '2026',
+    link: 'https://github.com/odong-noah/Library_management_system',
+  },
 ];
 
 const typeColors = {
