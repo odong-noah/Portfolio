@@ -58,6 +58,14 @@ const projects = [
     year: '2026',
     link: 'https://github.com/odong-noah/Library_management_system',
   },
+  {
+    title: 'Student Attendance System',
+    desc: 'A comprehensive full-stack web application designed to digitize and automate attendance tracking across four academic programs (Software Engineering, IT, Computer Science, and Information Systems). The system moves beyond simple record-keeping by using automated database triggers to "flag" at-risk students, providing administrators with actionable data to improve student retention.',
+    tags: ['Vanilla JavaScript', 'Boostrap CSS','PHP','MYSQL','HTML'],
+    type: 'Web App',
+    year: '2026',
+    link: 'https://github.com/odong-noah/Attendance_system',
+  },
 ];
 
 const typeColors = {
